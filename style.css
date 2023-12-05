@@ -1,0 +1,17 @@
+texto{text-align: center;
+    font-size: 20px;
+    color:black
+}
+#titulo{text-align: center;
+    font-size: 30px;
+    color: rgb(0, 153, 255);
+}
+.texto{
+    background-image:linear-Gradient(to top,rgba(12, 8, 11, 0),rgba(255, 0, 140, 0.767));
+    color:black;
+}
+.titulo{
+    background-color: linear-gradient(#EEE8AA, #D8BFD8);
+    color: white;
+}
+
